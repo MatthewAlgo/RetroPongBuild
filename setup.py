@@ -32,11 +32,11 @@ def read_requirements(path):
 setup(
     name="retropongbuild",
     version=read("retropongbuild", "VERSION"),
-    description="Awesome retropongbuild created by MatthewAlgo",
-    url="https://github.com/MatthewAlgo/RetroPongBuild/",
+    description="Awesome retropongbuild created by ",
+    url="https://github.com//RetroPongBuild/",
     long_description=read("README.md"),
     long_description_content_type="text/markdown",
-    author="MatthewAlgo",
+    author="",
     packages=find_packages(exclude=["tests", ".github"]),
     install_requires=read_requirements("requirements.txt"),
     entry_points={

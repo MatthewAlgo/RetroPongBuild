@@ -10,7 +10,7 @@ This instructions are for linux base systems. (Linux, MacOS, BSD, etc.)
 - On github interface click on `Fork` button.
 - Clone your fork of this repo. `git clone git@github.com:YOUR_GIT_USERNAME/RetroPongBuild.git`
 - Enter the directory `cd RetroPongBuild`
-- Add upstream repo `git remote add upstream https://github.com/MatthewAlgo/RetroPongBuild`
+- Add upstream repo `git remote add upstream https://github.com//RetroPongBuild`
 
 ## Setting up your own virtual environment
 
